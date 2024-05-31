@@ -16,3 +16,4 @@ print("Database 'crm_portal' created successfully!")
 # Close the cursor and connection
 cursorObject.close()
 dataBase.close()
+ 
